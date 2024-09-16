@@ -1,0 +1,5 @@
+Courses in Summer 2024
+CSE321 Operating Systems section :13
+CSE423 Computer Graphics section : 10
+CSE470 Software Engineering section : 15
+SOC101 Introduction to Sociology section : 10
